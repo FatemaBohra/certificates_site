@@ -4,5 +4,8 @@ This repo consists some certificates from my high school activities
 ## ENGLISH DEBATE CERTIFICATE
 <img src='Images_of_certificates/English_debate_certificate.png'>
 
-## ENVIRONMENT CONVSERVATION CERTIFICATE
+## ENVIRONMENT CONSERVATION CERTIFICATE
 <img src='Images_of_certificates/RUN4environment_cetificate.png'>
+
+## UNICEF
+<img src='Images_of_certificates/UNICEF_certificate.png'>
