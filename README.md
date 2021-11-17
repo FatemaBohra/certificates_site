@@ -10,6 +10,3 @@ This repo consists some certificates of my high school achievements
 
 ## UNICEF
 <img src='Images_of_certificates/UNICEF_certificate.png'>
-
-# Link site
-The images of all the certificates are given in [CERTIFICATES_please-open-me :)](https://github.com/FatemaBohra/certificates_site)
