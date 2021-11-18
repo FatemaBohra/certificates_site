@@ -1,4 +1,3 @@
-# Image site
 ## ENGLISH DEBATE CERTIFICATE
 <img src='Images_of_certificates/English_debate_certificate.png'>
 
