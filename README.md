@@ -1,6 +1,3 @@
-# certificates_site
-This repo consists some certificates of my high school achievements
-
 # Image site
 ## ENGLISH DEBATE CERTIFICATE
 <img src='Images_of_certificates/English_debate_certificate.png'>
