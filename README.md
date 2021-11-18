@@ -10,3 +10,6 @@ This repo consists some certificates of my high school achievements
 
 ## UNICEF
 <img src='Images_of_certificates/UNICEF_certificate.png'>
+
+## Poem_writing_competition CERTIFICATE
+<img src='Images_of_certificates/poem_competion_certificate.png'>
