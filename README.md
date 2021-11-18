@@ -12,5 +12,3 @@
 
 ## SELF_DEFENCE (Karate_certificate)
 <img src='Images_of_certificates/SELF_DEFENCE_cer.png'>
-
-The images of the certificates are given in [CERTIFICATES_please-open-me :)](https://github.com/FatemaBohra/certificates_site.git)
