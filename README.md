@@ -14,5 +14,5 @@ This repo consists some certificates of my high school achievements
 ## Poem_writing_competition CERTIFICATE
 <img src='Images_of_certificates/poem_competion_certificate.png'>
 
-## SELF_DEFENSE (Karate_certificate)
+## SELF_DEFENCE (Karate_certificate)
 <img src='Images_of_certificates/SELF_DEFENCE_cer.png'>
