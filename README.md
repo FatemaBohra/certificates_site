@@ -7,6 +7,9 @@
 ## Coursera (Html, CSS, JS) Certificate
 <img src='Images_of_certificates/Coursera_cer.png'>
 
+## Udemy (Complete Python Developer) Certificate
+<img src='Images_of_certificates/Udemy_certficte.png'>
+
 ## Poem_writing_competition CERTIFICATE
 <img src='Images_of_certificates/poem_competion_certificate.png'>
 
