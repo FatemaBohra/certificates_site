@@ -4,6 +4,9 @@
 ## ENVIRONMENT CONSERVATION CERTIFICATE
 <img src='Images_of_certificates/RUN4environment_cetificate.png'>
 
+## SankalpTaru(Resolution for Trees) volunteer certificate
+<img src='Images_of_certificates/SankalpTaru_cer.png'>
+
 ## Coursera (Html, CSS, JS) Certificate
 <img src='Images_of_certificates/Coursera_cer.png'>
 
